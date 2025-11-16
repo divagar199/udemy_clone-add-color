@@ -253,4 +253,14 @@ body {
 }
 
 
+.Course__card b{
+  font-size: 18px;
+  color: green;
+}
+
+.Course__card del{
+  font-size: 16px;
+  color: red;
+  margin-left: 10px;
+}
 
